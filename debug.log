@@ -1,0 +1,81 @@
+[0422/143530.186:ERROR:file_io_win.cc(161)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir2804_11420\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0422/143530.186:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir2804_11420\Crashpad\reports\954d9d19-4f70-4bf7-8e45-71ed8c3f2154.dmp: The system cannot find the path specified. (0x3)
+[0422/143530.186:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0422/172319.087:ERROR:file_io_win.cc(161)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir22260_8268\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0422/172319.088:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir22260_8268\Crashpad\reports\bcc738ce-5c9f-4dcd-b039-9269a213ecee.dmp: The system cannot find the path specified. (0x3)
+[0422/172319.088:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0423/183546.713:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0423/183546.714:ERROR:process_info.cc(550)] ReadMemoryInfo failed
+[0423/183546.714:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0425/111116.425:ERROR:file_io_win.cc(161)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir16592_12659\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0425/111116.425:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir16592_12659\Crashpad\reports\501f29d7-3921-41c0-8e64-c8ccad36de3a.dmp: The system cannot find the path specified. (0x3)
+[0425/111116.426:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0425/133654.665:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0425/133654.666:ERROR:process_info.cc(550)] ReadMemoryInfo failed
+[0425/133654.666:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0425/191221.558:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0425/191221.558:ERROR:process_info.cc(550)] ReadMemoryInfo failed
+[0425/191221.558:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0425/192238.538:ERROR:file_io_win.cc(161)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir19012_4208\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0425/192238.539:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir19012_4208\Crashpad\reports\6d16527b-3c2a-4870-9cbe-6446b6cc8f6c.dmp: The system cannot find the path specified. (0x3)
+[0425/192238.539:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0425/194304.668:ERROR:file_io_win.cc(161)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir16844_12232\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0425/194304.669:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir16844_12232\Crashpad\reports\cedab687-c4b3-4133-b794-f99b299753e7.dmp: The system cannot find the path specified. (0x3)
+[0425/194304.669:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0425/194746.508:ERROR:file_io_win.cc(161)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir18124_1182\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0425/194746.509:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir18124_1182\Crashpad\reports\c2ecd14c-599f-4d5e-8ece-0a6cc62bf82d.dmp: The system cannot find the path specified. (0x3)
+[0425/194746.509:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0425/194929.647:ERROR:file_io_win.cc(161)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir19288_26137\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0425/194929.648:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir19288_26137\Crashpad\reports\8c8472e8-3e91-4051-b3ec-20cdb1d744af.dmp: The system cannot find the path specified. (0x3)
+[0425/194929.648:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0425/203159.657:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0425/203159.658:ERROR:process_info.cc(550)] ReadMemoryInfo failed
+[0425/203159.658:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0425/203459.334:ERROR:file_io_win.cc(161)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir15528_2676\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0425/203459.334:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir15528_2676\Crashpad\reports\754fb516-5277-473d-ab33-9ba381ffca23.dmp: The system cannot find the path specified. (0x3)
+[0425/203459.334:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0425/204732.720:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0425/204732.721:ERROR:process_info.cc(550)] ReadMemoryInfo failed
+[0425/204732.721:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0509/212220.173:ERROR:file_io_win.cc(161)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir29560_12334\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0509/212220.174:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir29560_12334\Crashpad\reports\1bc37148-2bf2-4cf9-a0ee-e3fac06cdf60.dmp: The system cannot find the path specified. (0x3)
+[0509/212220.174:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0610/143653.036:ERROR:file_io_win.cc(161)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir17872_10678\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0610/143653.037:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir17872_10678\Crashpad\reports\1a1dd64b-d349-45ec-8ba6-d4d328b06f81.dmp: The system cannot find the path specified. (0x3)
+[0610/143653.037:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0623/170130.016:ERROR:file_io_win.cc(161)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir20492_9038\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0623/170130.017:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir20492_9038\Crashpad\reports\f61165f7-b078-49fc-a6e5-e0b5c837e930.dmp: The system cannot find the path specified. (0x3)
+[0623/170130.017:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0623/170509.825:ERROR:file_io_win.cc(161)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir6100_17007\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0623/170509.826:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir6100_17007\Crashpad\reports\e4726399-0a35-4857-b7fe-c2f50995d7be.dmp: The system cannot find the path specified. (0x3)
+[0623/170509.826:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0623/171011.091:ERROR:file_io_win.cc(161)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir16316_2518\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0623/171011.091:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir16316_2518\Crashpad\reports\3cd55a3e-521d-483f-b4a4-b12af19ac58f.dmp: The system cannot find the path specified. (0x3)
+[0623/171011.091:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0623/171910.674:ERROR:file_io_win.cc(161)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir2096_31894\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0623/171910.674:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir2096_31894\Crashpad\reports\beb76707-2928-4c1f-b785-87905c2f81cd.dmp: The system cannot find the path specified. (0x3)
+[0623/171910.675:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0623/172148.703:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0623/172148.704:ERROR:process_info.cc(550)] ReadMemoryInfo failed
+[0623/172148.704:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0630/095735.384:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0701/173922.070:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0704/191218.516:ERROR:file_io_win.cc(161)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir13004_11174\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0704/191218.517:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir13004_11174\Crashpad\reports\f37c3d83-5e70-4e29-ba8d-cd779bb34a0c.dmp: The system cannot find the path specified. (0x3)
+[0704/191218.517:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0704/191738.316:ERROR:file_io_win.cc(161)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir13232_205\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0704/191738.317:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir13232_205\Crashpad\reports\17358b77-95d6-4f4e-9553-d74bc3c4ea3c.dmp: The system cannot find the path specified. (0x3)
+[0704/191738.317:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0704/194940.857:ERROR:file_io_win.cc(161)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir21764_6690\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0704/194940.857:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir21764_6690\Crashpad\reports\e075af3d-7a30-4440-a7ce-ead523ba4d94.dmp: The system cannot find the path specified. (0x3)
+[0704/194940.857:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0704/195241.789:ERROR:file_io_win.cc(161)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir14924_8116\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0704/195241.790:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir14924_8116\Crashpad\reports\49ef7dd6-f2eb-4d3e-8705-4fd29a33dacc.dmp: The system cannot find the path specified. (0x3)
+[0704/195241.790:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0704/195814.885:ERROR:file_io_win.cc(161)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir2836_31610\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0704/195814.885:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir2836_31610\Crashpad\reports\5bed73f7-7b5f-4de0-9626-3b014246273c.dmp: The system cannot find the path specified. (0x3)
+[0704/195814.885:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0704/201910.913:ERROR:file_io_win.cc(161)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir17140_32270\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0704/201910.914:ERROR:file_io_win.cc(170)] CreateFile C:\Users\eliad\AppData\Local\Temp\scoped_dir17140_32270\Crashpad\reports\958e81ef-80b8-4119-b976-5e5f6491ac8e.dmp: The system cannot find the path specified. (0x3)
+[0704/201910.914:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0712/100832.421:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0

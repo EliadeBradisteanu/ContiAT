@@ -1,0 +1,47 @@
+[
+  {
+    "id": "recipient1",
+    "firstName": "Testuser1",
+    "lastName": "Mustermann",
+    "eMail": "testuser1@mhp.com",
+    "telNo": "+45 889 54562",
+    "country": "Portugal",
+    "language": "Allemand"
+  },
+  {
+    "id": "recipient2",
+    "firstName": "Testuser2",
+    "lastName": "Mustermann",
+    "eMail": "testuser2@mhp.com",
+    "telNo": "+45 889 54562",
+    "country": "Allemagne",
+    "language": "Allemand"
+  },
+  {
+    "id": "recipient3",
+    "firstName": "Testuser3",
+    "lastName": "Mustermann",
+    "eMail": "testuser3@mhp.com",
+    "telNo": "+49 212 655452",
+    "country": "Deutschland",
+    "language": "Deutsch"
+  },
+    {
+    "id": "recipient4",
+    "firstName": "Testuser4",
+    "lastName": "MustermannSms",
+    "eMail": "testuser4@mhp.com",
+    "telNo": "+49 176 60460928",
+    "country": "Deutschland",
+    "language": "Deutsch"
+  },
+    {
+    "id": "recipient5",
+    "firstName": "Testuser5",
+    "lastName": "MustermannMail",
+    "eMail": "eliade_b@yahoo.com",
+    "telNo": "+49 212 655452",
+    "country": "Deutschland",
+    "language": "Deutsch"
+  }
+]

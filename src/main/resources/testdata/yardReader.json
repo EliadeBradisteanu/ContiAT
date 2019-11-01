@@ -1,0 +1,20 @@
+[
+	{"id":1,
+	"yardID":"04a316d2197e",
+	"fleetID":"0003287668",
+	"depotID":"0003287669",
+	"status":"Active"
+	},
+	{"id":2,
+	"yardID":"9884e399e109",
+	"fleetID":"0003287659",
+	"depotID":"0003287660",
+	"status":"Active"
+	},
+	{"id":3,
+	"yardID":"9884e399e109",
+	"fleetID":"",
+	"depotID":"",
+	"status":""
+	}
+]

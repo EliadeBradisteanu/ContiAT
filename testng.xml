@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ContiSuite">
+	<listeners>
+		<listener
+			class-name="CONTI.Test.utils.listeners.TestListener" />
+		<listener
+			class-name="CONTI.Test.utils.listeners.AnnotationTransformer" />
+	</listeners>
+	<test name="TestsuiteContiConnect">
+		<classes>
+			<class name="CONTI.Test.New.AdminCreateNewVehicleTest_14352" />
+			<class name="CONTI.Test.AdminCreateNewVehicleTest_14408" />			
+		    <class name="CONTI.Test.AdminYardReaderAssignment_14409" />
+	        <class name="CONTI.Test.AdminHistoricReportBarCheck_14572" />
+	        <class name="CONTI.Test.AdminHistoricReportPsiCheck_14573" /> 
+		    <class name="CONTI.Test.AdminHhtUpload_14578" />
+			<class name="CONTI.Test.DeleteRecipientWithAssignmentTest_14586" />
+			<class name="CONTI.Test.DeleteRecipientWithoutAssignmentTest_14584" />
+			<class name="CONTI.Test.New.CreateRecipienAsFleetUserAndDeleteItWithDepotUserTest_14604" />
+			<class name="CONTI.Test.ShowNoShowVehicleInPortalNoAdmin_14423" />
+			<class name="CONTI.Test.ShowNoShowVehicleInPortalAdmin_14422" />
+			<class name="CONTI.Test.KPIsAdminMyFleet_14373" />
+			<class name="CONTI.Test.KPIsNoAdminMyFleet_14369" />
+			<class name="CONTI.Test.FileDownloadAndContentTest_32275" />
+			<class name="CONTI.Test.WorkshopViewUser_14356" />
+			<class name="CONTI.Test.MyFleetUpdate_14542" />
+			<class name="CONTI.Test.UserTestAlertNotificationsPsiFahrenheit_14412" />
+			<class name="CONTI.Test.SensorDataAvailableNormalUser_14385" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+Edit Button von erste Element in Table: .//*[@class='striped']/tbody/tr[1]/td[1]/a/i
+Neu-Anlege Button in View: .//*[@id='addButton']/a/i
+Aktiv/Inaktiv erstes Element in View: .//*[@class='striped']/tbody/tr[1]/td[2]/.//*[@id='active_10']
+oder .//*[@class='striped']/tbody/tr[1]/td[2]/.//*[@class='switch']/label
+
+In Bearbeitung selbst: 
+Cancle: .//*[@class='card-panel']/div[2]/form/div[2]/div/a
+Speichern: .//*[@class='card-panel']/div[2]/form/div[2]/div/button
+
+Kein Wert Grund Daten:
+TechCode: .//*[@class='card-panel']/div[2]/form/div[1]/div[1]/input
+Reihenfolge: .//*[@class='card-panel']/div[2]/form/div[1]/div[2]/input
+Datenherkunft: .//*[@class='card-panel']/div[2]/form/div[1]/div[3]/input
+Name: .//*[@id='lang_de']/div[1]/div[1]/input
+Titel: .//*[@id='title']
+Beschreibung: .//*[@id='lang_de']/div[2]/div/textarea
